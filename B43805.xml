@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the defeat of the rebels in the West with an account of their plundering and defacing the cathedral church at Wells, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43805</idno><idno type="EEBO-CITATION">625261105</idno>
+  <idno type="VID">211330</idno>
+  <idno type="EEBO-PROQUEST">2240872234</idno>
+  
+            <idno type="OCLC"> 625261105</idno>
+            <idno type="OCLC">ocn 625261105</idno>
+            <idno type="STC">Wing R820</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211330)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the defeat of the rebels in the West with an account of their plundering and defacing the cathedral church at Wells, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Domini, 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Wells Cathedral --  History --  Early works to 1800.</term>
+               <term type="topical_term">Monmouth's Rebellion, 1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Wells (England) --  Church history --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:211330:1"/>
+            <pb facs="tcp:211330:2"/>
+            <head>A RELATION Of the Defeat of the Rebels in the West, With an Account of their Plundering and De<g ref="char:EOLhyphen"/>facing the Cathedral Church at <hi>Wells,</hi> &amp;c.</head>
+            <p>STop <hi>Perkin,</hi> stop; <hi>Perkin Warbeck,</hi> Prince Pretty-man of <hi>Lime,</hi> the <hi>Taunton</hi> Comet, and <hi>Ignis Fatuus</hi> of the <hi>West,</hi> has with open Violence broken into the Church of <hi>Wells,</hi> thrown the Pulpit out of the Windows, and run away with the Roof. He hath Rob'd us of all our Spiritual Orna<g ref="char:EOLhyphen"/>ments, like Sir <hi>William Waller,</hi> all under pretence of <hi>Popish Re<g ref="char:EOLhyphen"/>liques;</hi> Consecrated <hi>Plate, Gallons</hi> and <hi>Pottles:</hi> We have not a <hi>Cup</hi> nor <hi>Chalice</hi> left to wet the Lips of a Thirsty Sinner.</p>
+            <p>Oh! 'tis a dismal pain! We may all Ring backwards now; this Cacafogo has set the Church on Fire, and melted down all the <hi>Leads.</hi> Yes▪ we may Ring, and make a noise till our Tongues drop out of our Mouths, and our Breeches be expos'd to the open Air: None will be so Charitable to cover our Naked<g ref="char:EOLhyphen"/>ness: What shall we do? Set Fire to our Wheels, and Hang our selves to an Eternal Silence in our own Ropes? No matter, for should we be for ever Silent, all the Land will Ring of this Action; not a <hi>Pancridge</hi> with a Brace of Candlesticks, but in a lamentable Knell will bewail the misfortune, and desolate Estate of <hi>Wells</hi> and <hi>Glassenbury.</hi>
+            </p>
+            <p>The Grove Assemblies and Field Conventicles will only Envy us, who must needs now conclude our Conversation to be there, who have no other Roof but Heaven for our Covering. Besides in this time of the Warfare of the Saints, when Stables are Churches, it may prevent our <hi>Cathedral</hi> from being turn'd into Stables, for such Conversions are usual with the Saints, where Rebellion is Religion, and Sacriledge Devotion. But who says <hi>Perkin</hi> has no Devotion, that can Whine out a Religious Cant with <hi>Ferguson,</hi> and has his Pockets stuft with Bibles like <hi>Olivers Porter.</hi> O brave <hi>Perkin!</hi> There's your <hi>True blew Protestant,</hi> who in Defyance of <hi>Popery,</hi> has vow'd to support the <hi>Gospel</hi> by De<g ref="char:EOLhyphen"/>facing the <hi>Cathedrals,</hi> and Batter <hi>Babylon</hi> by Erecting <hi>Babel.</hi> This
+<pb facs="tcp:211330:3"/>is a Method the very <hi>Papists,</hi> nay the <hi>Pope</hi> himself wou'd For<g ref="char:EOLhyphen"/>swear; to take up Unjust Arms against <hi>Caesar,</hi> and Settle Religion by pulling down the <hi>Churches.</hi> 'Tis a stretch beyond the Bold<g ref="char:EOLhyphen"/>ness of <hi>Absalom</hi> to Rob the Sacred Temple, and bring the Spoil into the Tents of <hi>Israel.</hi>
+            </p>
+            <p>But why this Religious Plunder? On what Golden foundati<g ref="char:EOLhyphen"/>on on does he intend to build his Church, that will not admit a Leaden Roof to stand? Was it out of Zeal to the Cause? Or Covetousness of the Lead, to find them Victuals or Ammunition? Had it been <hi>Irish Slate,</hi> it might have serv'd to Heal the Soldiers Bruizes, and to Cleanse ill Blood, or but good wholesome Straw, it might have serv'd for Provinder for his Horses▪ but Lead, and so many Tun too; save us from a great Gun. If the Rebels have such <hi>Ostridge</hi> Stomachs, that they can digest <hi>Mettal,</hi> Lead, and cold Iron; sure they had their Bellies full on <hi>Munday</hi> last, enough to furnish them for a Voyage into the other World, when several thousands with <hi>Ferguson,</hi> lay dead upon the spot, and all it's thought, of a Surfeit of too much Lead, of over-charging the Carcass with cold-Iron.</p>
+            <p>The Tyrant, who to supply his present occasion, with a touch turn'd the Leads of St. <hi>Peters</hi>-Church of <hi>Rome</hi> into Gold; had some <hi>Phylosopher,</hi> who pretended it was done by the power of the Sun-beams reflecting so many years upon the Elevated Roof. But thou hast no more of Wit, than the <hi>Phylosophers</hi>-Stone, who can make no other conversion of Lead but into Bullets, which return ten fold upon thy self, or hammer it out into half-pence for want of <hi>Money,</hi> (as the <hi>Saxons</hi> did their Leather) bearing the Character of thy name, that is to thy Eternal memory, <hi>Rebel, Traytor,</hi> Son of a W—,</p>
+            <p>Poor <hi>Perkin,</hi> I ever fear'd the ill consequence of thy folly and groundless ambition; thy robbing of Churches, <hi>Rape</hi> and <hi>Plun<g ref="char:EOLhyphen"/>der,</hi> were but ill Omens, and could never come to a better end. How couldst thou expect to come off with the loss of less than 15 hundred after the robbing of a Cathedral, when <hi>Cambyses</hi> lost 50 thousand for but attempting to Plunder the Temple of <hi>Jupiter Ammon,</hi> but a Heathen Deity? there were others who far'd no better at <hi>Delphos,</hi> but what were either destroyed soon after, or ruin'd in the attempt: This I fear will be thy Fate suddenly, and all thy ungracious Adherents, with <hi>Grey, Goodenough,</hi> and the rest; when thou after so great a Defeat, past all Hope, as well as Grace, will come to some unlucky end, and we again shall have a new Roof, and flourish in spight of <hi>Sacriledge</hi> and <hi>Rebellion.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. N. Anno Domini,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
